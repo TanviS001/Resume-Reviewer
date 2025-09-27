@@ -1,0 +1,35 @@
+Job Title: Software Engineer (Full-Stack, Fresher)
+Location: Bangalore, Karnataka, India
+
+About the Role
+We are looking for enthusiastic and motivated Software Engineers to join our growing team in Bangalore. This is an excellent opportunity for recent graduates who are passionate about software development, eager to learn new technologies, and ready to contribute to building innovative products.
+
+Responsibilities
+• Design and develop responsive web applications with modern frameworks.
+• Implement backend services, APIs, and database integrations.
+• Participate in all stages of the software development life cycle – planning, coding, testing, and deployment.
+• Collaborate with cross-functional teams (designers, testers, product managers) to deliver high-quality solutions.
+• Write clean, maintainable, and efficient code following industry best practices.
+• Continuously learn and adapt to new tools, frameworks, and technologies.
+
+Requirements
+• Bachelor’s/Master’s degree in Computer Science, Information Technology, or related field.
+• Strong understanding of web development fundamentals (HTML, CSS, JavaScript).
+• Knowledge of front-end frameworks (ReactJS/Angular/Vue).
+• Exposure to server-side technologies (NodeJS/ExpressJS or Java/Python).
+• Familiarity with databases (MySQL, MongoDB, or PostgreSQL).
+• Good understanding of Data Structures & Algorithms.
+• Strong problem-solving and analytical skills.
+• Excellent communication and teamwork abilities.
+
+Nice to Have
+• Experience with UI libraries like Tailwind CSS or Bootstrap.
+• Internship or project experience in web or mobile app development.
+• Familiarity with cloud platforms (AWS, GCP, or Azure).
+• Participation in coding contests or open-source contributions.
+
+What We Offer
+• A collaborative and innovative work environment.
+• Exposure to real-world projects and modern tech stacks.
+• Learning opportunities, mentorship, and career growth.
+• Competitive compensation and employee benefits.
